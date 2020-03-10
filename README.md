@@ -9,7 +9,7 @@ COVID19_Fallzahlen_Kanton_SG_alter_geschlecht.csv is published as BETA, and curr
 # Metadata
 Definition of not self-explanatory column names of the data resources are:
 
-'NewConfCases' = Newly confirmed cases (2nd tests are positive)
-'NewPosTests1' = Newly 1st tests, which are positive
-'TotalConfCases' = Total number of confirmed cases (2nd tests are positive)
-'TotalPosTests1' = Total number of 1st tests, which are positive
+- 'NewConfCases' = Newly confirmed cases (2nd tests are positive)
+- 'NewPosTests1' = Newly 1st tests, which are positive
+- 'TotalConfCases' = Total number of confirmed cases (2nd tests are positive)
+- 'TotalPosTests1' = Total number of 1st tests, which are positive
