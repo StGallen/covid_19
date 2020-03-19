@@ -1,12 +1,2 @@
-Date,Area,TotalTestedCases,TotalConfCases,TotalPosTests1,TotalCured,TotalDeaths
-27.02.2020,Canton_SG,,1,1,,
-28.02.2020,Canton_SG,,2,2,,
-02.03.2020,Canton_SG,,2,9,,
-03.03.2020,Canton_SG,400,9,13,,
-05.03.2020,Canton_SG,,19,19,,
-06.03.2020,Canton_SG,,26,26,,
-07.03.2020,Canton_SG,,30,30,,
-08.03.2020,Canton_SG,,37,37,,
-09.03.2020,Canton_SG,855,40,40,,
-10.03.2020,Canton_SG,999,7,7,,
-19.03.2020,Canton_SG,,61,,,
+Date,Area,TotalTestedCases,TotalConfCases,TotalPosTests1,TotalCured,TotalDeaths, Source
+19.03.2020,Canton_SG,,61,,,https://www.sg.ch/tools/informationen-coronavirus.html
