@@ -1,4 +1,8 @@
 Date,Area,TotalTestedCases,TotalConfCases,TotalPosTests1,TotalCured,TotalDeaths,Source
+02.03.2020,Canton_SG,,0,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zwei-personen-in-quarantaene---kein-bestaetigter-fall.html
+03.03.2020,Canton_SG,,0,,,,
+04.03.2020,Canton_SG,,1,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/erster-bestaetigter-corona-fall-im-kanton-.html
+04.03.2020,Canton_SG,,2,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zweiter-bestaetigter-fall-einer-corona-patientin.html
 12.03.2020,Canton_SG,,15,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 17.03.2020,Canton_SG,,47,,,,https://www.sg.ch/tools/informationen-coronavirus.html
 18.03.2020,Canton_SG,,61,,,,https://www.sg.ch/tools/informationen-coronavirus.html
