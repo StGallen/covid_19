@@ -1,5 +1,5 @@
-# covid_19 TEST +++ TEST +++ KEINE REALEN DATEN +++ TEST +++ TEST
-COVID19 Fallzahlen Kanton St.Gallen - Die Fallzahlen umfassen die im Kanton St.Gallen getesteten Personen. Die Daten werden einmal täglich aktualisiert.
+# covid_19 +++ TEST 
+COVID19 Fallzahlen Kanton St.Gallen - Die Fallzahlen umfassen die im Kanton St.Gallen getesteten Personen. Die Daten werden einmal täglich aktualisiert. Quelle: https://www.sg.ch/tools/informationen-coronavirus.html
 
 # Data
 COVID19_Fallzahlen_Kanton_SG_total.csv is published as BETA, and currently being reviewed by the data providing organisational unit, the Department of Health Canton of St.Gallen.
